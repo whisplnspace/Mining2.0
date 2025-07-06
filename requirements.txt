@@ -1,0 +1,11 @@
+streamlit
+speechrecognition
+gtts
+google-generativeai
+python-dotenv
+transformers
+torch
+langchain>=0.2.0
+faiss-cpu
+pdfplumber
+ollama
